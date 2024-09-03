@@ -1,0 +1,12 @@
+p{
+    width:50%;
+    font-size: 2em;
+}
+h1{
+    text-align: center;
+    font-size: 5em;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
